@@ -1,2 +1,1 @@
-# README
-New project of prabhakaran
+# README - A classic project for beginners
